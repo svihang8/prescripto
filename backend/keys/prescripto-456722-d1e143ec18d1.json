@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "prescripto-456722",
+  "private_key_id": "d1e143ec18d1587f79503cf971cd940b85823c7d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDtaLjniBZpC3hX\nG+IC2QXGSzEQfxDLKOxSocxYSJrUxx4m56zhNOhmLDj4FTuKghz2kfEkodzTvEA4\nzxnreSqXEYsE11nHPatsIw8kVbe9SKt4SWp1odEcdxKBrDoNgIcpLBASfdcVC/CJ\neako5d1K5DtIuqzKZ6PNDYlGqrM88IXuWdFk3xRHBwFuR+ig5mXTwt4gvXrCOrdn\nFgdxTtl03b8MKCX3VVhvsPJ2c1KsyVyX6oH8YCyNKawpzRQgeShaDS4lQOTGWqnk\nCsfPD2LbC6rt7FlfaP73VSmeLENsONYmpSYA5ewH6HViKZoiONLEf7AaS9TyoWYi\ni7qJsxvJAgMBAAECggEACOALWYx62f51xzvhnR2j25/f+6/kXtPu0b/+taYxM5cm\nB2pNyjWCIp+wmYWhrjHjB0y5aRcr/DZjaDxFycnDz9X2Dn5Geu5RRD+jR0Z1Efxv\nfJWyBye/e4LwDCz2Fp8hbmaZSzetHLpPibQkoMTHGw+hL7zazM5HD1lcMmobPUHm\nLpnTYAOrG+a/BddczfG1c9T+hSJ29b31Z219G0qN0IQAgb4Wjiyl4fHsuD46HFot\nNox7B/bwr74VJ4ChB0hGfufJHJSWfkQG+PaVuMvoqeW7zZjBbx5oYBib6xAk9K6r\nL3ObVKN6ORFAGlzzOOe8SPK8/nE3DL+0uR33dQXxAQKBgQD+vuOPwyOv9W9GMXkA\nTn0WDV0fmrICBp9EJz8vpujlLW1hh91R9rF2sI/pH9qa92pkXeJ1alwAz0J9qzPF\n/napp+/J+qdha8Vv5vRt3wuybGnrUCPhBOAVV+eG+AXQYkvY0YpLE23a1ZHFjv5w\nbdP+t+NVcvDfhIKT8TPP1YZzGQKBgQDuk/r1/3RuL4tOFrvSqRWS58mZhVCiTFWI\nAKJVTkzC2R3rpks3CAmmIB2fk7qJC6ZG76qt2ymCmyHPqUDZ8w/kje6T/AdS/YhZ\ncOiDYVHnaf4mFhjRz1715mDi1wt9MUDN4apXqazZV5eOozPGPtjliDhCSetqq+Y+\nJjIIEQY0MQKBgQCFmRK62Hok07CxvUxaDs+m+wc1hemJCnQISBTpJr3JQxO0LI6z\nZ48WUe6HMj9xOgQ/8sTLEyaA/jE+usSCN7t/qiUlZiDWBLEcyKCz5l+6CQVbdUH7\nxpTGXL19mSFjccmZQfsm+F+KfqreUum5iL+/PC0rKQaOEm5wq/SiMLc8MQKBgB2j\nyNPzDrX5tibXcDI1y3Za0ZL/GwtuzFl/KqvKdILokm0KVeHaX8iByOxgYBZSmi/J\n6rx6s+eD+mlgL6xkJB9S+sbr0sUetmfWPSzFVHWZl3eH20GFr9iA7JyB9u1wxwpM\n9Oq7K7w8w5l28SG6ARxTFho2MMcp4Arsl96krs6hAoGAX+nNhgbUNYmP+cMBQpgd\n2UkZhdflVPHJ6mDamft6M++jaCvp5VWfX5cUm/Y6UeVm1Nt2FpS4m0tDlm0leVPm\ng/tcJOsTViipsHS+TWJ8pbshQnqz0JXa20vByyVcBgCaKQSLKQTa8T8QEq5qNOIS\nFfxB9jyUBVbjmzVItWRsI0Q=\n-----END PRIVATE KEY-----\n",
+  "client_email": "prescripto-service-account@prescripto-456722.iam.gserviceaccount.com",
+  "client_id": "101163337751140031098",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/prescripto-service-account%40prescripto-456722.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
